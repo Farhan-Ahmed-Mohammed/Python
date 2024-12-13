@@ -1,5 +1,5 @@
 class parent1:
-    def add(self,a,b):
+    def add(self,a,b):    #self is used to refer to instance object itself 
         return a+b
 
 class parent2:
